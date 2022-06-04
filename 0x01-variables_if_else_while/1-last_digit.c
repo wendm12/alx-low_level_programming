@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
+ *Description:print the last digit of the number stord in variable
  *main:print the last digit of the number stored in variable
  *Return:print the digit of the number stored in variable
  */
