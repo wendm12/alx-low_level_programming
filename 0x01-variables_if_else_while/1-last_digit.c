@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *print the last digit of the number stored in variable
+ *description:print the last digit of the number stored in variable
  */
-int main(void)
+int main(void)/*description return the last digit of n*/
 {
 	int n;
 	int m;
@@ -14,14 +14,14 @@ int main(void)
 	m = n % 10;
 
 
-	if (m > 5)
- 		printf("Last digit of %d is %d and is greater than 5\n", n, m);
-	else if (m == 5)
+	if(m > 5)
+		printf("Last digit of %d is %d and is greater than 5\n", n, m);
+	else if(m == 5)
 		printf("Last digit of %d is %d and is 5\n", n, m); 
-	else if (m == 0)
+	else if(m == 0)
 		printf("Last digit of %d is %d and is 0\n", n, m);
 	else 
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, m);
-	return (0);
+	return(0);
 }	
 	
