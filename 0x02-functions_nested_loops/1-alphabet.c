@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  *main-alphabet in lowercase
  *Return:Always 0
