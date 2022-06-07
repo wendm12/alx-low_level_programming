@@ -1,6 +1,3 @@
 #include <stdio.h>
 
-int _putchr
-
-int main(void)
-{
+int _putchar(char c);
