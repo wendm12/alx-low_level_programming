@@ -1,4 +1,5 @@
-#include <unistd.h>
+#include<unistd.h>
+#include<stdio.h>
 /*
  * main - printe _putchar
  * Return: Always 0.
