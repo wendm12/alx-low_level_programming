@@ -5,7 +5,8 @@
  * Return: Always 0.
  */
 int _putchar(char c);
-int main (void)
+/*printe _putchar*/
+int main(void)
 {
 	putchar(95);
 	putchar(112);
