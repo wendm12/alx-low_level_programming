@@ -1,3 +1,4 @@
+#include <unistd>
 #include "main.h"
 /**
  *main-alphabet in lowercase
