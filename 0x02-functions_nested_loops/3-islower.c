@@ -1,8 +1,8 @@
-#include "main"
+#include "main.h"
 
-/*
- *
- *
+/**
+ *main:print 1 if c is lowercase or print o if else
+ *Return:0
  */
 int _islower(int c);
 {
@@ -15,4 +15,4 @@ int _islower(int c);
 		putchar(0);
 	}
 	return (0);
-}
+i}
