@@ -14,7 +14,7 @@ void print_alphabet_x10(void)/*defination of main function print alphabet x10*/
 		{
 			putchar(j);
 		}
-		putchare('\n');
+		putchar('\n');
 		i++;
 	}
 	return;
