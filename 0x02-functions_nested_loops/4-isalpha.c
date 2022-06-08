@@ -1,7 +1,7 @@
 #include "main.h"
  /**
   * _isalpha-print 1 if letter 0 if not
-  *Return: 1 or 2
+  *Return: 1 or 0
   */
 int _isalpha(int c)
 {
