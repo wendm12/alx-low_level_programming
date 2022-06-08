@@ -5,7 +5,7 @@
   */
 int _isalpha(int c)
 {
-	if ( c = 'a' ; c <= 'z' ; c++)
+	if (c = 'a'; c <= 'z'; c++)
 	{	
 		return (1);
 	}
