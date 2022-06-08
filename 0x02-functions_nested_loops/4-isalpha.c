@@ -9,7 +9,7 @@ int _isalpha(int c)
 	{	
 		return (1);
 	}
-	else if (c = 'A' ; c <= 'Z' ; c++)
+	else if (c = 'A'; c <= 'Z'; c++)
 	{
 		return (1);
 	}
