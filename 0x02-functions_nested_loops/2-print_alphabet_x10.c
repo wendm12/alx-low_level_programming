@@ -1,12 +1,12 @@
 #include "main.h"
 
 /*
- *main-print alphabet x10
- *Return:0
+ *main:print alphabet x10
+ *print_alphabet_x10:print alphabet x10
  */
-void print_alphabet_x10(void)/*defination of main function print alphabet x10*/
+void print_alphabet_x10(void)
 {
-	int i=0;
+	int i = 0;
 	int j;
 	while (i < 10)
 	{
