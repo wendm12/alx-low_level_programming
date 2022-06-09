@@ -1,7 +1,7 @@
 #include <main.h>
 /**
  *main - check the code
- *Return: multiplies a and b
+ *Return:melti of a and b
  */
 int mul(int a, int b)
 { 
