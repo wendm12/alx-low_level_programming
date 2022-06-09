@@ -1,11 +1,11 @@
 #include <main.h>
 /**
- *main-check the code
- *Return: multiplication of a and b
+ *main - check the code
+ *Return: multiplies a and b
  */
 int mul(int a, int b)
 { 
-	int a,b;
+	int mult;
 	mult=a * b;
 	return mult;
 }
